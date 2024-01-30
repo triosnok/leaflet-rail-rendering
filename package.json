@@ -8,14 +8,12 @@
   },
   "dependencies": {
     "@solidjs/start": "^0.4.11",
-    "leaflet": "^1.9.4",
+    "ol": "^8.2.0",
     "solid-js": "^1.8.12",
     "vinxi": "^0.1.10"
   },
   "engines": {
     "node": ">=18"
   },
-  "devDependencies": {
-    "@types/leaflet": "^1.9.8"
-  }
+  "devDependencies": {}
 }
